@@ -1,0 +1,37 @@
+\babel@toc {english}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces The relation between CPS and IoT systems \cite {r16}\relax }}{3}{figure.caption.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Cloud Technology \cite {r15}\relax }}{6}{figure.caption.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Sample software architecture shows interaction of high level components \cite {r17}\relax }}{8}{figure.caption.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Layered Architecture \cite {r18}\relax }}{9}{figure.caption.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Event Driven Mediator Architecture \cite {r18}\relax }}{10}{figure.caption.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Event Driven Broker Architecture \cite {r18}\relax }}{11}{figure.caption.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Microkernel Architecture \cite {r18}\relax }}{12}{figure.caption.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Microservice Architecture \cite {r18}\relax }}{12}{figure.caption.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Service oriented Architecture \cite {r19}\relax }}{13}{figure.caption.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Cloud Architecture \cite {r21}\relax }}{14}{figure.caption.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Bulkhead Pattern \cite {r26}\relax }}{15}{figure.caption.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Retry Pattern \cite {r26}\relax }}{16}{figure.caption.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Circuit Breaker Pattern \cite {r26}\relax }}{16}{figure.caption.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces CQRS Pattern \cite {r25}\relax }}{17}{figure.caption.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Symmetric cryptography overview \cite {r23}\relax }}{19}{figure.caption.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Asymmetric cryptography overview \cite {r23}\relax }}{20}{figure.caption.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces X.509 Standard Certification Dataflow \cite {r23}\relax }}{21}{figure.caption.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces OTA update system\relax }}{24}{figure.caption.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Generic framework for automotive software updates \cite {r3}\relax }}{27}{figure.caption.20}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Amazon FreeRTOS based OTA update system \cite {r27}\relax }}{30}{figure.caption.21}%
+\contentsline {figure}{\numberline {21}{\ignorespaces SimpleLink Embedded Software components supporting User Application \cite {r27}\relax }}{31}{figure.caption.22}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Rolling Back sequence if the OTA update fails \cite {r27}\relax }}{33}{figure.caption.23}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Sequence of steps involved in a traditional OTA update system \cite {r28}\relax }}{34}{figure.caption.24}%
+\contentsline {figure}{\numberline {24}{\ignorespaces SOTA client \cite {r28}\relax }}{36}{figure.caption.25}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Update Strategy in ECUs \cite {r28}\relax }}{38}{figure.caption.26}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Smartphone and IoT device in the ecosystem \cite {r29}\relax }}{39}{figure.caption.28}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Hardware architecture supporting OTA updates for IoT devices \cite {r29}\relax }}{40}{figure.caption.29}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Full software architecture \cite {r29}\relax }}{41}{figure.caption.30}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Network configuration of the system \cite {r30}\relax }}{43}{figure.caption.31}%
+\contentsline {figure}{\numberline {30}{\ignorespaces System architecture \cite {r30}\relax }}{44}{figure.caption.32}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Full OTA update system architecture\relax }}{57}{figure.caption.35}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Working of device provisioning\relax }}{59}{figure.caption.36}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Attaching root certificate in IoT DPS service\relax }}{65}{figure.caption.38}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Group enrollement in IoT DPS service\relax }}{66}{figure.caption.39}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Successful firmware version update\relax }}{68}{figure.caption.40}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Files contained in the project directory in final execution\relax }}{68}{figure.caption.41}%

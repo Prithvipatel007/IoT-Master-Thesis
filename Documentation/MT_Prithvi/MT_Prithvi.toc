@@ -1,0 +1,71 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{List of Figures}{ix}{Doc-Start}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Objectives}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Reasearch Goals}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Thesis Structure}{2}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Fundamentals and State-of-the-art}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}IoT and CPS systems}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Over-The-Air Update}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Cloud Technology}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Cloud Service Models}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Cloud Computing Security}{7}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Software and Cloud Architecture}{7}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Software Architecture}{7}{subsubsection.2.4.1}%
+\contentsline {paragraph}{\numberline {2.4.1.1}Layered (N-tier) Architecture}{9}{paragraph.2.4.1.1}%
+\contentsline {paragraph}{\numberline {2.4.1.2}Event-Driven Architecture}{9}{paragraph.2.4.1.2}%
+\contentsline {paragraph}{\numberline {2.4.1.3}Microkernel Architecture}{11}{paragraph.2.4.1.3}%
+\contentsline {paragraph}{\numberline {2.4.1.4}Microservices Architecture}{12}{paragraph.2.4.1.4}%
+\contentsline {paragraph}{\numberline {2.4.1.5}Service Oriented Architecture (SOA)}{13}{paragraph.2.4.1.5}%
+\contentsline {subsubsection}{\numberline {2.4.2}Cloud Architecture}{13}{subsubsection.2.4.2}%
+\contentsline {paragraph}{\numberline {2.4.2.1}Bulkhead Pattern}{14}{paragraph.2.4.2.1}%
+\contentsline {paragraph}{\numberline {2.4.2.2}Retry Pattern}{15}{paragraph.2.4.2.2}%
+\contentsline {paragraph}{\numberline {2.4.2.3}Circuit Breaker Pattern}{16}{paragraph.2.4.2.3}%
+\contentsline {paragraph}{\numberline {2.4.2.4}Command Query Responsibility Segregation (CQRS)}{17}{paragraph.2.4.2.4}%
+\contentsline {paragraph}{\numberline {2.4.2.5}Load Levelling}{17}{paragraph.2.4.2.5}%
+\contentsline {subsection}{\numberline {2.5}Cryptography}{18}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Cryptographic Checksum}{22}{subsubsection.2.5.1}%
+\contentsline {section}{\numberline {3}Analysis of existing OTA update systems}{23}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Significant sectors for OTA updates}{23}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Generic Framework for Automotive Wireless SW Updates}{25}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Significance}{25}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}The generic and secure framework}{26}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Security methodology of the framework}{28}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Secure and reliable OTA architecture}{28}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Importance of OTA update security and reliability }{28}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Specific Implementation Details}{31}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Generic System for Automotive SOTA updates }{33}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Traditional Updates}{34}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Safe and Secure SOTA system}{35}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Smartphone based OTA framework for IoT devices}{39}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}OTA firmware update for Smart Urban Development}{41}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Architectural differences of existing OTA update system}{45}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Analogy criteria}{45}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Generic Framework for Automotive Wireless SW updates}{46}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Secure and Reliable OTA architecture}{47}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Generic system for Automotive SOTA updates}{49}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Smartphone based OTA framework for IoT devices}{50}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}OTA firmware update for Smart Urban Development}{52}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Designing a generic and scalable OTA architecture concept}{55}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Architecture}{55}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Software deployment client}{55}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Cloud Services}{55}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Device Manager}{56}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Device Provisioning}{58}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}SFTP Server}{59}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Event Hub}{60}{subsubsection.5.3.4}%
+\contentsline {subsubsection}{\numberline {5.3.5}Health Monitoring}{60}{subsubsection.5.3.5}%
+\contentsline {subsubsection}{\numberline {5.3.6}Server-less application service}{60}{subsubsection.5.3.6}%
+\contentsline {subsection}{\numberline {5.4}Processing in IoT device}{61}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Feasibility of generic and scalable OTA architecture}{64}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Software Deployment Client}{64}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Cloud services}{65}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Processing in IoT device}{67}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Evaluation of the generic and scalable OTA architecture concept}{69}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Architecture Trade-off Analysis Method (ATAS)}{69}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Software Architecture Analysis Method (SAAM)}{70}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Active Reviews for Intermediate Designs (ARID)}{71}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Evaluation for the generic and scalable architecture}{71}{subsection.7.4}%
+\contentsline {section}{\numberline {8}Conclusion and future work}{74}{section.8}%
+\contentsline {section}{References}{75}{section.8}%

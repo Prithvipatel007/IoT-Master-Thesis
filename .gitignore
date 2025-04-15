@@ -1,52 +1,14 @@
-# Prerequisites
-*.d
+#Ignore azure SDK
+azure-iot-sdk-c/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+#Ignore Build files
+out/
+CMakeFiles
 
-# Linker output
-*.ilk
-*.map
-*.exp
+#Ignore certificates files and identity files
+*.pem
+Device_identity.txt
 
-# Precompiled Headers
-*.gch
-*.pch
+#Ignore extra files
+*.bin
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
